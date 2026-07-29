@@ -225,7 +225,7 @@
                 </a>
 
                 <!-- 単元カード 6: 生活支援技術 -->
-                <a href=(mahi.md) class="category-card bg-white p-4 rounded-2xl border-2 border-slate-200 card-shadow flex items-center justify-between group">
+                <a href="mahi.md" class="category-card bg-white p-4 rounded-2xl border-2 border-slate-200 card-shadow flex items-center justify-between group">
                     <div class="flex items-center gap-3.5">
                         <div class="w-12 h-12 rounded-xl bg-rose-100 text-rose-700 font-bold flex items-center justify-center text-xl flex-shrink-0 group-hover:bg-rose-600 group-hover:text-white transition">
                             <i class="fa-solid fa-hands-holding-child"></i>
